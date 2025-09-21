@@ -1,7 +1,7 @@
 # About my first project on GitHub
 Este é meu primeiro projeto no GitHub.
 Iniciando com Pyton
-Usando Python como uma calculadora /n
+Usando Python como uma calculadora
 21/09
 Escrevendo o início da sequência de Fibonacci 
 a, b = 0, 1
