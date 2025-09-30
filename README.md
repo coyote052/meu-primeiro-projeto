@@ -2,10 +2,12 @@
 Este é meu primeiro projeto no GitHub.
 Iniciando com Pyton
 Usando Python como uma calculadora
-21/09
+21/09/25
 Escrevendo o início da sequência de Fibonacci 
 a, b = 0, 1
 while a < 10:
     print(a)
     a, b = b, a+b
 
+30/09/25
+Comecando com o curso AWS Cloud Practitioners Essentials pela Amazon.
